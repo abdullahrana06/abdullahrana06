@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/4dmnD7hr/github-banner.png" alt="Abdullah Banner" />
+  <img src="https://chatgpt.com/c/689de22c-442c-832d-b128-693a755b2626" alt="Abdulla Banner" />
 </p>
 
 <!-- Typing SVG Effect -->
