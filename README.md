@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGwmy_VGfQ/c0MRoMOPCAU9pkx8D7Qh_A/edit?utm_content=DAGwmy_VGfQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Abdulla Banner" />
+  
 </p>
 
 <!-- Typing SVG Effect -->
