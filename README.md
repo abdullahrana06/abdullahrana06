@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://chatgpt.com/c/689de22c-442c-832d-b128-693a755b2626" alt="Abdulla Banner" />
+  <img src="https://www.canva.com/design/DAGwmy_VGfQ/c0MRoMOPCAU9pkx8D7Qh_A/edit?utm_content=DAGwmy_VGfQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Abdulla Banner" />
 </p>
 
 <!-- Typing SVG Effect -->
